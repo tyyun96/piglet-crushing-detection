@@ -64,7 +64,8 @@ of the revised paper. The notebook was written for the submitted manuscript and 
 
 1. **Environment** — Python 3.11, `pip install -r analysis/requirements.txt` (exact versions of the analysis; the CUDA packages are
    needed only for detection and detector training).
-2. **Data** — download the dataset from Zenodo and unzip all archives into one folder, e.g. `../crushing_dataset/`.
+2. **Data** — download the [dataset](https://doi.org/10.5281/zenodo.23999721) from Zenodo (11 files, about 1.3 GB) and unzip all
+   archives into one folder, e.g. `../crushing_dataset/`.
 3. **Place the data** — `python setup_data.py ../crushing_dataset` (symbolic links; `--copy` to copy).
 4. **Run** — `jupyter nbconvert --to notebook --execute analysis.ipynb --output analysis_run.ipynb`, or open the notebook in
    Jupyter. The project folder is found from the working directory (or set `CRUSHING_ROOT`).
@@ -105,4 +106,9 @@ Dataset: CC BY 4.0 (see the Zenodo record).
 
 ## Citation
 
-[to be added after publication]
+Article: [to be added after publication]
+
+Dataset: Yun T, Yun J, Lee W. Hidden-trapping and suspected-crushing detection for piglets in farrowing pens: dataset [Data set].
+Version 1.0. Zenodo; 2026. https://doi.org/10.5281/zenodo.23999721
+
+Code: GitHub's "Cite this repository" (from `CITATION.cff`).

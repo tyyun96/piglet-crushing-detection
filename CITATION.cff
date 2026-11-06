@@ -6,7 +6,8 @@ abstract: >-
   Analysis notebook, preprocessing scripts and annotation tools for the manuscript
   "Detecting hidden piglet trapping from temporal changes in visible piglet counts in
   farrowing-pen video: An offline proof-of-concept study" (PLOS ONE, revised version of
-  PONE-D-26-22779). The data needed to reproduce the results are archived separately on Zenodo.
+  PONE-D-26-22779). The data needed to reproduce the results are archived separately on Zenodo
+  (https://doi.org/10.5281/zenodo.23999721).
 authors:
   - given-names: Taeyong
     family-names: Yun
