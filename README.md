@@ -2,7 +2,7 @@
 
 Code for the manuscript **"Detecting hidden piglet trapping from temporal changes in visible piglet counts in farrowing-pen video: An offline proof-of-concept study"**
 (PLOS ONE, revised version of PONE-D-26-22779).
-Dataset: Zenodo, DOI **[to be added]**.
+Dataset: Zenodo, DOI [10.5281/zenodo.23999721](https://doi.org/10.5281/zenodo.23999721).
 
 The pipeline detects piglets in overhead video of farrowing pens with a YOLO detector, counts them per pen and
 
