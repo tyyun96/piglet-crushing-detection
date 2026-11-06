@@ -1,0 +1,15 @@
+# data and generated files (the dataset is on Zenodo; see README.md)
+data/
+cache/
+meta/
+extracted/
+third_party/
+outputs/
+annotations/
+reference_results/
+*.mp4
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/

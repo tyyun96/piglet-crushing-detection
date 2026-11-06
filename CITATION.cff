@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, together with the article it accompanies."
+type: software
+title: "Hidden-trapping and suspected-crushing detection for piglets: analysis code"
+abstract: >-
+  Analysis notebook, preprocessing scripts and annotation tools for the manuscript
+  "Detecting hidden piglet trapping from temporal changes in visible piglet counts in
+  farrowing-pen video: An offline proof-of-concept study" (PLOS ONE, revised version of
+  PONE-D-26-22779). The data needed to reproduce the results are archived separately on Zenodo.
+authors:
+  - given-names: Taeyong
+    family-names: Yun
+    affiliation: "Graduate School of Information, Yonsei University"
+  - given-names: Jinhyeon
+    family-names: Yun
+    affiliation: "Department of Animal Science, Chonnam National University"
+  - given-names: Woongsup
+    family-names: Lee
+    affiliation: "Graduate School of Information, Yonsei University"
+license: MIT
+repository-code: "https://github.com/tyyun96/piglet-crushing-detection"
+keywords:
+  - piglet crushing
+  - hidden trapping
+  - farrowing pen
+  - video analysis
+  - object detection
+  - multi-object tracking
+  - precision livestock farming
