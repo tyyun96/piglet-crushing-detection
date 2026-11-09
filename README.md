@@ -3,6 +3,8 @@
 Code for the manuscript **"Detecting hidden piglet trapping from temporal changes in visible piglet counts in farrowing-pen video: An offline proof-of-concept study"**
 (PLOS ONE, revised version of PONE-D-26-22779).
 Dataset: Zenodo, DOI [10.5281/zenodo.23999721](https://doi.org/10.5281/zenodo.23999721).
+Archived code: Zenodo, DOI [10.5281/zenodo.24076186](https://doi.org/10.5281/zenodo.24076186) (v1.0.0, the version used in the
+paper; all versions: [10.5281/zenodo.24076185](https://doi.org/10.5281/zenodo.24076185)).
 
 The pipeline detects piglets in overhead video of farrowing pens with a YOLO detector, counts them per pen and
 
@@ -111,4 +113,5 @@ Article: [to be added after publication]
 Dataset: Yun T, Yun J, Lee W. Hidden-trapping and suspected-crushing detection for piglets in farrowing pens: dataset [Data set].
 Version 1.0. Zenodo; 2026. https://doi.org/10.5281/zenodo.23999721
 
-Code: GitHub's "Cite this repository" (from `CITATION.cff`).
+Code: Yun T, Yun J, Lee W. Hidden-trapping and suspected-crushing detection for piglets: analysis code [Software].
+Version 1.0.0. Zenodo; 2026. https://doi.org/10.5281/zenodo.24076186
